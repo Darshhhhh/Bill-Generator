@@ -1,0 +1,9 @@
+.MainLoginBg {
+  height: 100vh;
+  background: linear-gradient(to right, #1fa2ff, #12d8fa, #a6ffcb);
+}
+.LoginBox {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 7px;
+}
